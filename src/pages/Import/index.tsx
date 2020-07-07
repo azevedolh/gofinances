@@ -40,7 +40,7 @@ const Import: React.FC = () => {
 
   return (
     <>
-      <Header size="small" />
+      <Header size="small" selected="importar" />
       <Container>
         <Title>Importar uma transação</Title>
         <ImportFileContainer>
